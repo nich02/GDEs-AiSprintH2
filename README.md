@@ -1,8 +1,8 @@
 # GDEs-AiSprintH2
-CHIRPS Rainfall Gap Filling with In-Situ Data
+CHIRPS Rainfall Gap Filling with In-Situ Data in Earth Engine 
 
 ### Project About
-This project focuses on improving rainfall data quality by filling gaps in CHIRPS satellite-based precipitation datasets using ground-based (in-situ) rainfall observations. 
+This project focuses on improving rainfall data quality by filling gaps in CHIRPS satellite-based precipitation datasets stored in EE Data catalogue using ground-based (in-situ) rainfall observations. 
 Reliable rainfall information is critical for drought monitoring, food security analysis, climate risk assessment, and early warning systems, especially in data-scarce regions such as Africa.
 Satellite rainfall products like CHIRPS provide wide spatial coverage but may contain missing values, temporal gaps, or biases due to cloud cover, sensor limitations, or retrieval uncertainties. 
 In contrast, in-situ rain gauge data offer high accuracy at point locations but lack spatial continuity. 
