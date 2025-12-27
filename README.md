@@ -91,3 +91,8 @@ I might consider some of these advanced extentions in the future;
 2. Machine learning–based rainfall correction
 3. Integration with additional satellite products (IMERG, TAMSAT)
 4. Automated validation metrics (RMSE, Bias, Correlation)
+
+
+### Aknowledgement 
+Google Cloud credits were provided for this project." #AISprint
+Thank you, for your support
